@@ -1,4 +1,5 @@
-### プロフィール
+井手英誠
+大手前大学 現代社会学部現代社会学科 通信教育課程 4年
 
 <!--
 **Aseiide/Aseiide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
