@@ -7,7 +7,20 @@
 - 福岡県立 東筑高校 (2011/04 ~ 2014/03)
 
 # Experience
+- レストラン検索のLINEBOTを制作  
+Node.jsとExpressを使ってLINE BOTの制作を行いました  
+https://line.me/R/ti/p/%40724uokdg
 
+- PR TIMES社主催 21卒エンジニア向けのハッカソンに参加
+
+# Output
+- Qiita
+日々の開発で、詰まったことや分からなかった点とその解決策をQiita記事としてアウトプットしています。  
+https://qiita.com/Aseiide
+
+- Blog
+開発に関わらない、個人的なイベントや出来事はブログにまとめています。
+https://aseiide.hatenablog.com/
 
 
 <!--
