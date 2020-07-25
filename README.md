@@ -11,9 +11,9 @@
 Node.jsとExpressを使ってLINE BOTの制作を行いました  
 https://line.me/R/ti/p/%40724uokdg
 
-- PR TIMES社主催 21卒エンジニア向けのハッカソンに参加
-[GitHubリポジトリ](https://github.com/prtimes-intern-ruby/hitokoto)
-[ハッカソンで作成したアプリの紹介スライド](https://docs.google.com/presentation/d/1QFsx1X86LyuaMsezJ4kFvW6YUys-O6QQgYHE68HCAco/edit?usp=sharing)
+- PR TIMES社主催 21卒エンジニア向けのハッカソンに参加  
+[GitHubリポジトリ](https://github.com/prtimes-intern-ruby/hitokoto)  
+[ハッカソンで作成したアプリの紹介スライド](https://docs.google.com/presentation/d/1QFsx1X86LyuaMsezJ4kFvW6YUys-O6QQgYHE68HCAco/edit?usp=sharing)  
 
 # Output
 - Qiita  
