@@ -15,6 +15,11 @@ https://line.me/R/ti/p/%40724uokdg
 [GitHubリポジトリ](https://github.com/prtimes-intern-ruby/hitokoto)  
 [ハッカソンで作成したアプリの紹介スライド](https://docs.google.com/presentation/d/1QFsx1X86LyuaMsezJ4kFvW6YUys-O6QQgYHE68HCAco/edit?usp=sharing)  
 
+- 電車時刻通知LINE BOTの作成
+
+[GitHubリポジトリ](https://github.com/Aseiide/ayase_bot)  
+[技術解説](https://qiita.com/Aseiide/items/04d1f62c9616d9aaa7b1)  
+
 # Output
 - Qiita  
 日々の開発で、詰まったことや分からなかった点とその解決策をQiita記事としてアウトプットしています。  
