@@ -28,9 +28,7 @@ https://qiita.com/Aseiide
 開発に関わらない、個人的なイベントや出来事はブログにまとめています。  
 https://aseiide.hatenablog.com/
 
-- 西日暮里.rb に参加しています  
-https://nishinipporirb.doorkeeper.jp/
-
+- 西日暮里.rb と Fukuoka.rb に参加しています  
 
 <!--
 **Aseiide/Aseiide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
