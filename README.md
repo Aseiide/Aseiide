@@ -1,8 +1,3 @@
-# 井手英誠
-**大手前大学 現代社会学部現代社会学科 卒業**
-
-## Education
-- 大手前大学(2021年3月卒業)
 ## Experience
 - レストラン検索のLINEBOTを制作  
 Node.jsとExpressを使ってLINE BOTの制作を行いました  
